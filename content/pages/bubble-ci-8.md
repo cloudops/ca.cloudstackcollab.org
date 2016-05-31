@@ -89,6 +89,20 @@ Example of custom test case:
 ```
 
 
+Where is git?
+-------------
+
+To change CloudStack code and rebuild, the git repo is at
+`/data/git/cs1/cloudstack`. 
+
+To test your own branch or fork with bubble:
+```
+cd /data/git/cs1/cloudstack
+git remote add mygithub <...link_to_github...>
+git pull
+```
+
+
 Reset the environment
 ---------------------
 
@@ -109,4 +123,7 @@ Then redeploy CloudStack:
 [root@cs1 ~]# ./build_run_deploy_test.sh -m /data/shared/marvin/mct-zone1-kvm1-kvm2.cfg
 ```
 
+Links
+-----
 
+* https://github.com/MissionCriticalCloud/bubble-toolkit

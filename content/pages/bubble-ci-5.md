@@ -88,6 +88,19 @@ Example of custom test case:
   smoke/test_password_server.py
 ```
 
+Where is git?
+-------------
+
+To change CloudStack code and rebuild, the git repo is at
+`/data/git/cs1/cloudstack`. 
+
+To test your own branch or fork with bubble:
+```
+cd /data/git/cs1/cloudstack
+git remote add mygithub <...link_to_github...>
+git pull
+```
+
 
 Reset the environment
 ---------------------
@@ -110,3 +123,7 @@ Then redeploy CloudStack:
 ```
 
 
+Links
+-----
+
+* https://github.com/MissionCriticalCloud/bubble-toolkit
