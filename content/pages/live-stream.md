@@ -10,6 +10,8 @@ draft = false
 	</div>
 	<div>This requires that you are already a channel member or have an <code>@apache.org</code> email in order to register.</div>
 	<br />
+	<div>Save this URL so you can access this page later, without having to specify your details again.</div>
+	<br />
 	<div class="video-container">
 		<iframe width="640" height="360" src="https://www.youtube.com/embed/f-hiV3ZTU-I" frameborder="0" allowfullscreen></iframe>
 	</div>
