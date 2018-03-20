@@ -1,6 +1,6 @@
-baseurl = "http://cloudstackcollab.org/"
+baseurl = "http://ca.cloudstackcollab.org/"
 languageCode = "en-us"
-title = "cloudstackcollab.org"
+title = "CloudStack Collaboration Conference - Montreal"
 theme = "hugo-creative-theme"
 
 [params]
@@ -26,4 +26,4 @@ theme = "hugo-creative-theme"
   favicon = "favicon.ico"
 
   # Google Analytics.
-  googleAnalytics = "UA-76311553-1"
+  googleAnalytics = ""
