@@ -1,0 +1,29 @@
+baseurl = "http://ca.cloudstackcollab.org/"
+languageCode = "en-us"
+title = "CloudStack Collaboration Conference - Montreal"
+theme = "hugo-creative-theme"
+
+[params]
+
+  # You can use Markdown syntax for urls [text](//url.to/source) for
+  # most longer texts.
+
+  # All icons using Fontawesome's icon font. Look at fortawesome.github.io/Font-Awesome/icons/
+  # for more icons. The icons are represented by their corresponding
+  # CSS class.
+
+  # All projects of the portfolio are defined in their own files.
+  # You can find example projects at 'exampleSite/data/projects'. Copy the 'projects'
+  # folder into the 'data' directory at the root of this Hugo site.
+  # For more informtion take a look at the README.
+
+  # To provide some metadata for search engines feel free to add a few
+    # information about you and your website.
+  name = "Apache CloudStack"
+  description = "Apache CloudStack Collaboration Conferences"
+
+  # The path must be relative to the static folder
+  favicon = "favicon.ico"
+
+  # Google Analytics.
+  googleAnalytics = ""
